@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "BetBotLambda", "BetBotLambda\BetBotLambda.xproj", "{CE1183F1-C797-4AF3-ACFB-07BF6BC25186}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetBotTests", "BetBotTests\BetBotTests.csproj", "{08E73619-8037-4E1B-A009-CB3E985DE680}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CE1183F1-C797-4AF3-ACFB-07BF6BC25186}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE1183F1-C797-4AF3-ACFB-07BF6BC25186}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE1183F1-C797-4AF3-ACFB-07BF6BC25186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E73619-8037-4E1B-A009-CB3E985DE680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E73619-8037-4E1B-A009-CB3E985DE680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E73619-8037-4E1B-A009-CB3E985DE680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E73619-8037-4E1B-A009-CB3E985DE680}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
